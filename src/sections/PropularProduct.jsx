@@ -2,9 +2,9 @@ import React from 'react'
 
 const PropularProduct = () => {
   return (
-    <div>
+    <section id="product" className='max-container'>
       
-    </div>
+    </section>
   )
 }
 
